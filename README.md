@@ -1,6 +1,6 @@
-<h1 align="center">Joseph Barbier</h1>
-<h3 align="center">Statistics student, Bordeaux</h3>
+<h1 align="center">Joseph Barbier, statistics student</h1>
 <h3 align="center">Check out my <a href="https://www.statistics-learning-curve.com">website</a> on data mining</h3>
+<h4 align="left">Really excited about science and epistemology. I am particularly interested in topics such as: <strong><i>how statistics allow us to make inferences, the impact of large language models and more generally data mining</i></strong>.</h4>
 
 
 <br>
@@ -15,7 +15,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
 
  <img
