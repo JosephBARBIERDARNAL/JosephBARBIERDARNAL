@@ -22,9 +22,9 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://wiki.postgresql.org/wiki/Main_Page" target="_blank" rel="noreferrer"> <img
+      alt="sql" width="40" height="40" /> </a> </a> <a href="https://wiki.postgresql.org/wiki/Main_Page" target="_blank" rel="noreferrer"> <img
       src="https://www.r-project.org/logo/Rlogo.png"
-      alt="pandas" width="45" height="40" /> </a> <a href="https://www.r-project.org" target="_blank"
+      alt="r" width="45" height="40" /> </a> <a href="https://www.r-project.org" target="_blank"
     rel="noreferrer"> 
 
   <br>
