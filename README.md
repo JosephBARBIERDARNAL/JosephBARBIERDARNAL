@@ -1,15 +1,10 @@
-<h1 align="center">Joseph Barbier, statistics student</h1>
-<h3 align="center">Check out my <a href="https://www.statistics-learning-curve.com">website</a> on data mining</h3>
-<h4 align="left">Really excited about science and epistemology. I am particularly interested in topics such as: <strong><i>how statistics allow us to make inferences, the impact of large language models and more generally data mining</i></strong>.</h4>
+<h2 align="center">Joseph Barbier, statistics student</h1>
+<h4 align="left">Hi 👋, I'm a data passionate.</h4>
 
 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="width: 500px; height: 500px;" /></p>
-
-
-
-- 🌱 Intern in a French start-up
 
 - 📫 Reach me: **joseph.barbierdarnal@gmail.com** 
 
