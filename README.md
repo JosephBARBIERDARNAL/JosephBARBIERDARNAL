@@ -1,5 +1,5 @@
 <h2 align="center">Joseph Barbier</h1>
-<h4 align="left">Hi 👋, I'm a data passionate. I'm working in various fields such <b><i>dataviz</i></b>, <i>stats</i> and <i>NLP</i>.</h4>
+<h4 align="left">Hi 👋, I'm a data passionate. I'm working in various fields such as <b><i>dataviz</i></b>, <i>stats</i> and <i>NLP</i>.</h4>
 
 <br>
 
