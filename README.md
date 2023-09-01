@@ -1,10 +1,8 @@
-<h2 align="center">Joseph Barbier, statistics student</h1>
-<h4 align="left">Hi 👋, I'm a data passionate.</h4>
+<h2 align="center">Joseph Barbier</h1>
+<h4 align="left">Hi 👋, I'm a data passionate. I'm working in various fields such <b><i>dataviz</i></b>, <i>stats</i> and <i>NLP</i>.</h4>
 
 
 <br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" style="width: 500px; height: 500px;" /></p>
 
 - 📫 Reach me: **joseph.barbierdarnal@gmail.com** 
 
@@ -12,24 +10,13 @@
 
 <h3 align="left">Languages</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://wiki.postgresql.org/wiki/Main_Page" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
-      alt="sql" width="40" height="40" /> </a> </a> <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img
-      src="https://www.r-project.org/logo/Rlogo.png"
-      alt="r" width="45" height="40" /> </a> <a href="https://www.r-project.org" target="_blank"
-    rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
+  <a href="https://wiki.postgresql.org/wiki/Main_Page" target="_blank" rel="noreferrer"> </a>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="sql" width="40" height="40">
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
+ <img src="https://www.r-project.org/logo/Rlogo.png" alt="r" width="45" height="40"> <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> 
 
   <br>
-
-<h3>Statistical Data</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephBARBIERDARNAL&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="JosephBARBIERDARNAL" 
-    bg_color=#808080/></p>
-
-<br>
   
 <h3>Contribution</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JosephBARBIERDARNAL&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
