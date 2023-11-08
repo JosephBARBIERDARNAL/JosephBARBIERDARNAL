@@ -6,18 +6,17 @@
 - 📫 Reach me: **joseph.barbierdarnal@gmail.com** 
 
 <br>
-
-<h3 align="left">Languages</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="sql" width="40" height="40">
-  <img src="https://www.r-project.org/logo/Rlogo.png" alt="r" width="45" height="40">
-</p>
-
-<br>
   
 <h3>Contribution</h3>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JosephBARBIERDARNAL&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+
+![JosephBARBIERDARNAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephBARBIERDARNAL&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephBARBIERDARNAL&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosephBARBIERDARNAL&theme=dark)
+
+
+
 
 
 
