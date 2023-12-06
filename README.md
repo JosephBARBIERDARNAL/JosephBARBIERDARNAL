@@ -3,7 +3,7 @@
 
 <br>
 
-- Website: [www.barbierjoseph.com](https://www.barbierjoseph.com)
+- Website: **[www.barbierjoseph.com](https://www.barbierjoseph.com)**
 - 📫 Reach me: **joseph.barbierdarnal@gmail.com** 
 
 <br>
