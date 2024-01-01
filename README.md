@@ -12,9 +12,6 @@
 
 ![JosephBARBIERDARNAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephBARBIERDARNAL&show_icons=true&theme=dark)
 
-![Top Langs2](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephBARBIERDARNAL&hide=html,jupyter%20notebook&layout=compact&theme=dark)
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosephBARBIERDARNAL&theme=dark)
 
 
