@@ -1,14 +1,13 @@
 <h2 align="center">Joseph Barbier</h2>
-<h4 align="left">Hi 👋, I'm a data passionate. I'm working in various fields such as <b><i>dataviz</i></b>, <i>stats</i> and <i>NLP</i>.</h4>
+
+#### Hi 👋 I'm a data, science and open source passionate! Currently working as a **data science/viz/software intern** with [Yan Holtz](https://www.yan-holtz.com) working on various projects.
 
 <br>
 
 - Website: **[www.barbierjoseph.com](https://www.barbierjoseph.com)**
-- 📫 Reach me: **joseph.barbierdarnal@gmail.com** 
+- Reach me: **joseph.barbierdarnal@gmail.com** 
 
 <br>
-  
-<h3>Contribution</h3>
 
 <p align="center">
   <table align="center">
