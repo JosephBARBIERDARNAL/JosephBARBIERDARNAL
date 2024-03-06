@@ -1,6 +1,6 @@
 <h2 align="center">Joseph Barbier</h2>
 
-#### Hi 👋 I'm a data, science and open source passionate! Currently working as a **data science/viz/software intern** with [Yan Holtz](https://www.yan-holtz.com) working on various projects.
+#### Hi 👋 I'm a data, science and open source passionate! Currently working as a **data science/viz/software intern** with [Yan Holtz](https://www.yan-holtz.com) on various projects.
 
 <br>
 
