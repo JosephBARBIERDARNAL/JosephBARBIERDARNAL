@@ -10,12 +10,8 @@
 <br>
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Joseph's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JosephBARBIERDARNAL" /></a></td>
-      <td><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JosephBARBIERDARNAL" /></td>
-    </tr>
-  </table>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Joseph's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JosephBARBIERDARNAL" /></a>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JosephBARBIERDARNAL" />
 </p>
 
 
