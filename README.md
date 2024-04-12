@@ -11,15 +11,18 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Joseph's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JosephBARBIERDARNAL" /></a>
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JosephBARBIERDARNAL" />
+</p>
+<br>
+
+## Visualization
+
+<p align="center">
+  <img src="wordcloud_linechart.png" width="45%" />
+  <img src="europe-map.png" width="45%" style="margin-left: 2%; margin-right: 2%;" />
+</p>
+<p align="center">
+  <img src="eclipse_map.png" width="30%" />
+  <img src="confusion_matrix.png" width="30%" style="margin-left: 2%; margin-right: 2%;" />
+  <img src="electricity_consumption_heatmap_by_region_and_year.png" width="30%" />
 </p>
 
-
-
-
-
-
-
-
-
- 
