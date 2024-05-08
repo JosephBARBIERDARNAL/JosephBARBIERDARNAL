@@ -23,15 +23,11 @@ I spend lots of time creating visualization, mostly with matplotlib. Here are a 
 
 <p align="center">
   <img src="wordcloud_linechart.png" width="45%" />
-  <img src="europe-map.png" width="45%" style="margin-left: 2%; margin-right: 2%;" />
+  <img src="unemployment_linecharts.png" width="45%" />
 </p>
+
 <p align="center">
-  <img src="eclipse_map.png" width="45%" />
-  <img src="unemployment_linecharts.png" width="45%" style="margin-left: 2%; margin-right: 2%;" />
-</p>
-<p align="center">
-  <img src="electricity_consumption_heatmap_by_region_and_year.png" width="45%" />
-  <img src="mutliple_maps.png" width="45%" style="margin-left: 2%; margin-right: 2%; />
+  <img src="mutliple_maps.png" width="45%"/>
 </p>
 
 
