@@ -15,7 +15,7 @@
 
 ## Visualization
 
-I spend lots of time creating visualization, mostly with matplotlib. Here are a few examples:
+I spend a lot of time creating visualisations, mainly with matplotlib. Here are a few examples (all my viz are on [my website](https://barbierjoseph.com/#/visualization)):
 
 <p align="center">
   <img src="modified_animation_comp.gif" width="90%" />
@@ -24,10 +24,6 @@ I spend lots of time creating visualization, mostly with matplotlib. Here are a 
 <p align="center">
   <img src="wordcloud_linechart.png" width="45%" />
   <img src="unemployment_linecharts.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="mutliple_maps.png" width="45%"/>
 </p>
 
 
