@@ -21,6 +21,12 @@ I spend a lot of time creating visualisations, mainly with matplotlib. Here are 
   <img src="modified_animation_comp.gif" width="90%" />
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="plastic.mp4" width="90%" />
+</p>
+
 <p align="center">
   <img src="wordcloud_linechart.png" width="45%" />
   <img src="unemployment_linecharts.png" width="45%" />
