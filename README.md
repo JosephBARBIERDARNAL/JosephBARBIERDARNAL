@@ -24,7 +24,7 @@ I spend a lot of time creating visualisations, mainly with matplotlib. Here are 
 <br/>
 
 <p align="center">
-  <img src="plastic.mp4" width="90%" />
+  <img src="plastic.gif" width="90%" />
 </p>
 
 <p align="center">
