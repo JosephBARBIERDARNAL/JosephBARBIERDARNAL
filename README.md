@@ -6,7 +6,6 @@
 
 I'm a data science and open source passionate, currently working both as a **freelancer** and on various **open source** projects (either as maintainer or contributor).
 
-<br>
 
 ### Contact
 
@@ -15,7 +14,6 @@ I'm a data science and open source passionate, currently working both as a **fre
 - Reach me: **joseph.barbierdarnal@gmail.com** 
 
 
-<br>
 
 ### Some stats about me
 
