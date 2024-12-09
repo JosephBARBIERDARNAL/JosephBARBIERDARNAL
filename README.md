@@ -15,8 +15,6 @@ I'm a data science and open source passionate, currently working both as a **fre
 
 <img alt="Joseph's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JosephBARBIERDARNAL&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JosephBARBIERDARNAL&theme=merko" />
-
 ### Dataviz
 
 I do lots of dataviz, and I've created a few things you might find interesting:
