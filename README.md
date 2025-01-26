@@ -13,7 +13,9 @@ I'm a data science and open source passionate, currently working both as a **fre
 
 ### Some stats about me
 
-<img alt="Joseph's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JosephBARBIERDARNAL&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=JosephBARBIERDARNAL&show_icons=true&theme=tokyonight" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JosephBARBIERDARNAL&show_icons=true&include_all_commits=true" alt="Joseph's GitHub stats" />
 
 ### Dataviz
 
