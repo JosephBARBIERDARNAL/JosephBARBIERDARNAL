@@ -4,7 +4,9 @@
 
 </div>
 
-I'm a data science and open source passionate, currently working both as a **freelancer** and on various **open source** projects (either as maintainer or contributor).
+I'm passionate about **open-source** development and **data analysis**. I have worked in multiple contexts (research, start-up, freelancing, open source) and on various topics (health, e-commerce, ecology, data visualization).
+
+Today, I live in France, working as a **freelance** data scientist and dedicating time to open-source projects
 
 ### Contact
 
