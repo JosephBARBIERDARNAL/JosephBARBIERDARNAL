@@ -13,29 +13,30 @@ Today, I live in France, working as a **freelance** data scientist and dedicatin
 - Website: **[www.barbierjoseph.com](https://www.barbierjoseph.com)**
 - Reach me: **joseph.barbierdarnal@gmail.com**
 
+<br>
+
 ### Some stats about me
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JosephBARBIERDARNAL&show_icons=true&include_all_commits=true" alt="Joseph's GitHub stats" />
 
-### Dataviz
+<br>
 
-I do lots of dataviz, and I've created a few things you might find interesting:
+### Projects
 
-<details>
-   <summary>View</summary>
+#### Open-source
 
-![Evolution of unemployment](https://github.com/JosephBARBIERDARNAL/static/blob/main/graph/linechart-unemployment-world/unemployment_linecharts.png?raw=true)
+- [pypalettes](https://github.com/JosephBARBIERDARNAL/pypalettes): A large (+2500) collection of color maps for Python
+- [pyfonts](https://github.com/JosephBARBIERDARNAL/pyfonts): A simple (and reproducible) way to load fonts for matplotlib
+- [drawarrow](https://github.com/JosephBARBIERDARNAL/drawarrow): Drawing arrows for matplotlib made easy
+- [morethemes](https://github.com/JosephBARBIERDARNAL/morethemes): More themes for matplotlib
+- [gifing](https://github.com/JosephBARBIERDARNAL/gifing): A lightweight python tool for creating GIFs
 
-![CO2 consumption in Europe](https://github.com/JosephBARBIERDARNAL/static/blob/main/graph/map-co2-consumption-europe/image.png?raw=true)
+#### Dataviz
 
-![Earthquakes around the world](https://github.com/JosephBARBIERDARNAL/static/blob/main/graph/map-earthquakes-world/image.png?raw=true)
+- [Python Graph Gallery](https://python-graph-gallery.com/best-python-chart-examples/): A large number of my visualizations can be found here
+- [30 Day Map Challenge](https://github.com/JosephBARBIERDARNAL/30DayMapChallenge): A collection of my visualizations for the 30 Day Map Challenge
+- [TidyTuesday](https://github.com/JosephBARBIERDARNAL/tidytuesday): My visualizations for the TidyTuesday challenge
 
-![Japan population evolution](https://github.com/JosephBARBIERDARNAL/static/blob/main/graph/area-japan-population/image.png?raw=true)
+#### Vibe coding ([what is that?](https://x.com/karpathy/status/1886192184808149383)) / random
 
-![Temperature evolution](https://github.com/JosephBARBIERDARNAL/static/blob/main/graph/lollipop-temperature-evolution/image.png?raw=true)
-
-![Gender gap in the Pacific](https://github.com/JosephBARBIERDARNAL/static/blob/main/graph/pacific-dataviz-challenge/image.png?raw=true)
-
-![Evolution of natural disasters](https://github.com/JosephBARBIERDARNAL/static/blob/main/graph/stacked-area-natural-disasters/image.png?raw=true)
-
-</details>
+- [whatkindofpizza.com](https://github.com/JosephBARBIERDARNAL/whatkindofpizza.com): Have you ever wonder, what kind of pizza you are? Well, here is the answer.
