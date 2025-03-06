@@ -39,4 +39,4 @@ Today, I live in France, working as a **freelance** data scientist and dedicatin
 
 #### Vibe coding ([what is that?](https://x.com/karpathy/status/1886192184808149383)) / random
 
-- [whatkindofpizza.com](https://github.com/JosephBARBIERDARNAL/whatkindofpizza.com): Have you ever wonder, what kind of pizza you are? Well, here is the answer.
+- [whatkindofpizza.com](https://whatkindofpizza.com): Have you ever wonder, what kind of pizza you are? Well, here is the answer.
