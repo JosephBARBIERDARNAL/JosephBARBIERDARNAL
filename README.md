@@ -29,6 +29,7 @@ Today, I live in France, working as a **freelance** data scientist and dedicatin
 - [pyfonts](https://github.com/JosephBARBIERDARNAL/pyfonts): A simple (and reproducible) way to load fonts for matplotlib
 - [drawarrow](https://github.com/JosephBARBIERDARNAL/drawarrow): Drawing arrows for matplotlib made easy
 - [morethemes](https://github.com/JosephBARBIERDARNAL/morethemes): More themes for matplotlib
+- [dayplot](https://github.com/JosephBARBIERDARNAL/dayplot): Calendar heatmaps with matplotlib
 - [gifing](https://github.com/JosephBARBIERDARNAL/gifing): A lightweight python tool for creating GIFs
 
 #### Dataviz
