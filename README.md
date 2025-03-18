@@ -4,7 +4,7 @@
 
 </div>
 
-I'm passionate about **open-source** development and **data analysis**. I have worked in multiple contexts (research, start-up, freelancing, open source) and on various topics (health, e-commerce, ecology, data visualization).
+I'm passionate about **open-source** and **data analysis**. I have worked in multiple contexts (research, start-up, freelancing, open source) and on various topics (health, e-commerce, ecology, data visualization).
 
 Today, I live in France, working as a **freelance** data scientist and dedicating time to open-source projects
 
