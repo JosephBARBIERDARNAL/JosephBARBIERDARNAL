@@ -38,6 +38,3 @@ Today, I live in France, working as a **freelance** data scientist and dedicatin
 - [30 Day Map Challenge](https://github.com/JosephBARBIERDARNAL/30DayMapChallenge): A collection of my visualizations for the 30 Day Map Challenge
 - [TidyTuesday](https://github.com/JosephBARBIERDARNAL/tidytuesday): My visualizations for the TidyTuesday challenge
 
-#### Vibe coding ([what is that?](https://x.com/karpathy/status/1886192184808149383)) / random
-
-- [whatkindofpizza.com](https://whatkindofpizza.com): Have you ever wonder, what kind of pizza you are? Well, here is the answer.
