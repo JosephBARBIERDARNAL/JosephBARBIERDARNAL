@@ -1,9 +1,14 @@
-Doing **open source** and **freelance** work, mostly around **data(viz)** stuff. Most of my open source work happens at [**yellow sunflower**](https://ysunflower.com/).
+Doing **open source** and **consulting** work, mostly around **data(viz)** stuff. I'm the creator [**yellow sunflower**](https://ysunflower.com/), the company all this work.
 
 Feel free to say hi 👋!
 
-<br>
-
-Website: [www.barbierjoseph.com](https://www.barbierjoseph.com)
-
-Reach me: joseph.barbierdarnal@gmail.com
+<table>
+  <tr>
+    <td><img src="https://github.com/JosephBARBIERDARNAL/static/blob/main/python-libs/bumplot/image.png?raw=true" width="100"></td>
+    <td><img src="https://github.com/JosephBARBIERDARNAL/static/blob/main/python-libs/pyfonts/image.png?raw=true" width="100"></td>
+    <td><img src="https://github.com/JosephBARBIERDARNAL/static/blob/main/python-libs/drawarrow/image.png?raw=true" width="100"></td>
+    <td><img src="https://github.com/JosephBARBIERDARNAL/static/blob/main/python-libs/morethemes/image.png?raw=true" width="100"></td>
+    <td><img src="https://github.com/JosephBARBIERDARNAL/static/blob/main/python-libs/pyfonts/image.png?raw=true" width="100"></td>
+    <td><img src="https://github.com/JosephBARBIERDARNAL/static/blob/main/python-libs/dayplot/image.png?raw=true" width="100"></td>
+  </tr>
+</table>
