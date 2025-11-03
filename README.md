@@ -1,4 +1,4 @@
-Doing **open source** and **consulting** work, mostly around **data(viz)** stuff. I'm the creator of [**yellow sunflower**](https://ysunflower.com/), the company behind all this work.
+Doing **open source** and **consulting** work, mostly around **data(viz)** stuff. I'm the founder of [**yellow sunflower**](https://ysunflower.com/), the company behind all this work.
 
 Feel free to say hi 👋!
 
